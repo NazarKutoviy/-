@@ -1,0 +1,14 @@
+.container {
+  width: 1300px;
+  padding: 0 15px;
+  margin: 0 auto;
+  outline: solid chartreuse;
+}
+.flex-list {
+  display: flex;
+  list-style: none;
+}
+img {
+  width: 350px;
+  height: 290px;
+}
